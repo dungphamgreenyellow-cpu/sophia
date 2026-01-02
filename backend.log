@@ -1,0 +1,7 @@
+Backend chạy: http://0.0.0.0:8080
+[0mGET /health [32m200[0m 2.311 ms - 65[0m
+[0mGET /health [32m200[0m 0.403 ms - 65[0m
+[0mGET /api/transactions?ym=2026-01 [32m200[0m 2.510 ms - 198[0m
+[0mPOST /api/transactions [33m400[0m 0.408 ms - 49[0m
+[0mPOST /api/transactions [32m200[0m 0.845 ms - 95[0m
+[0mGET /api/transactions?ym=2026-01 [32m200[0m 0.451 ms - 275[0m
